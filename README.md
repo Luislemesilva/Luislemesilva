@@ -75,7 +75,7 @@ Sou um aficionado pela tecnologia desde pequeno, sempre movido pela curiosidade,
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="160" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Luislemesilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -83,7 +83,7 @@ Sou um aficionado pela tecnologia desde pequeno, sempre movido pela curiosidade,
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luislemesilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
