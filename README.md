@@ -2,10 +2,10 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Luis Eduardo Leme Silva, tenho 20 anos e sou natural do interior São Paulo. Atualmente estou cursando Ciência da Computação na instituição UNIFEOB. Buscando sempre adquirir experiência para aprimorar e ampliar meu conhecimento na área tecnológica. 
+Me chamo Luis Eduardo Leme Silva, tenho 20 anos e sou natural do interior São Paulo. Atualmente estou cursando Ciência da Computação. Buscando sempre adquirir experiência para aprimorar e ampliar meu conhecimento na área tecnológica. 
 
 Sou um aficionado pela tecnologia desde pequeno, sempre movido pela curiosidade, ambição de aprender e dedicação, é algumas das características na qual me destaco, a fim de me tornar um profissional mais completo e preparado.
-
+<br>
 <p align="left">
   <div>
       <a href="https://www.linkedin.com/in/luis-eduardo-leme-silva-7bb6591b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
