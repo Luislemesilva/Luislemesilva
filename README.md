@@ -71,6 +71,7 @@ Sou um aficionado pela tecnologia desde pequeno, sempre movido pela curiosidade,
 <br/>
 
 ---
+
 ### 📊 Estatísticas
 
 <p>
