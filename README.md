@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luis Eduardo Leme Silva
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor`**
 
 Me chamo Luis Eduardo Leme Silva, tenho 21 anos e sou natural do interior São Paulo. Atualmente estou cursando Ciência da Computação. Buscando sempre adquirir experiência para aprimorar e ampliar meu conhecimento na área tecnológica. 
 
